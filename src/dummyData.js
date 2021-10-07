@@ -49,3 +49,87 @@ export const userData = [
     },
  
   ];
+
+  export const userRows = [
+    {
+      id: 1,
+      username: "Prince_Halo",
+      avatar:
+        "https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+      email: "donskilful@gmail.com",
+      status: "active",
+      transaction: "$389",
+    },
+    {
+      id: 2,
+      username: "Prince_Halo",
+      avatar:
+        "https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+      email: "donskilful@gmail.com",
+      status: "active",
+      transaction: "$389",
+    },
+    {
+      id: 3,
+      username: "Prince_Halo",
+      avatar:
+        "https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+      email: "donskilful@gmail.com",
+      status: "active",
+      transaction: "$389",
+    },
+    {
+      id: 4,
+      username: "Prince_Halo",
+      avatar:
+        "https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+      email: "donskilful@gmail.com",
+      status: "active",
+      transaction: "$389",
+    },
+    {
+      id: 5,
+      username: "Prince_Halo",
+      avatar:
+        "https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+      email: "donskilful@gmail.com",
+      status: "active",
+      transaction: "$389",
+    },
+    {
+      id: 6,
+      username: "Prince_Halo",
+      avatar:
+        "https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+      email: "donskilful@gmail.com",
+      status: "active",
+      transaction: "$389",
+    },
+    {
+      id: 7,
+      username: "Prince_Halo",
+      avatar:
+        "https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+      email: "donskilful@gmail.com",
+      status: "active",
+      transaction: "$389",
+    },
+    {
+      id: 8,
+      username: "Prince_Halo",
+      avatar:
+        "https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+      email: "donskilful@gmail.com",
+      status: "active",
+      transaction: "$389",
+    },
+    {
+      id: 9,
+      username: "Prince_Halo",
+      avatar:
+        "https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+      email: "donskilful@gmail.com",
+      status: "active",
+      transaction: "$389",
+    },
+  ];
