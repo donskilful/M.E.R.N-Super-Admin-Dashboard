@@ -50,6 +50,21 @@ export const userData = [
  
   ];
 
+  export const productData = [
+    {
+      name: "Jan",
+      "Sales": 4000,
+    },
+    {
+      name: "Feb",
+      "Sales": 9000,
+    },
+    {
+      name: "Mar",
+      "Sales": 3000,
+    },
+  ];
+
   export const userRows = [
     {
       id: 1,
@@ -131,5 +146,89 @@ export const userData = [
       email: "donskilful@gmail.com",
       status: "active",
       transaction: "$389",
+    },
+  ];
+
+  export const productRows = [
+    {
+      id: 1,
+      name: "Apple Airpods",
+      img:
+        "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/oneplus-buds-pro-airpods-pro-comparison.jpg",
+      stock: 129,
+      status: "active",
+      price: "$89",
+    },
+    {
+      id: 2,
+      name: "Apple Airpods",
+      img:
+        "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/oneplus-buds-pro-airpods-pro-comparison.jpg",
+      stock: 129,
+      status: "active",
+      price: "$89",
+    },
+    {
+      id: 3,
+      name: "Apple Airpods",
+      img:
+        "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/oneplus-buds-pro-airpods-pro-comparison.jpg",
+      stock: 129,
+      status: "active",
+      price: "$89",
+    },
+    {
+      id: 4,
+      name: "Apple Airpods",
+      img:
+        "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/oneplus-buds-pro-airpods-pro-comparison.jpg",
+      stock: 129,
+      status: "active",
+      price: "$89",
+    },
+    {
+      id: 5,
+      name: "Apple Airpods",
+      img:
+        "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/oneplus-buds-pro-airpods-pro-comparison.jpg",
+      stock: 129,
+      status: "active",
+      price: "$89",
+    },
+    {
+      id: 6,
+      name: "Apple Airpods",
+      img:
+        "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/oneplus-buds-pro-airpods-pro-comparison.jpg",
+      stock: 129,
+      status: "active",
+      price: "$89",
+    },
+    {
+      id: 7,
+      name: "Apple Airpods",
+      img:
+        "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/oneplus-buds-pro-airpods-pro-comparison.jpg",
+      stock: 129,
+      status: "active",
+      price: "$89",
+    },
+    {
+      id: 8,
+      name: "Apple Airpods",
+      img:
+        "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/oneplus-buds-pro-airpods-pro-comparison.jpg",
+      stock: 129,
+      status: "active",
+      price: "$89",
+    },
+    {
+      id: 9,
+      name: "Apple Airpods",
+      img:
+        "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/oneplus-buds-pro-airpods-pro-comparison.jpg",
+      stock: 129,
+      status: "active",
+      price: "$89",
     },
   ];
