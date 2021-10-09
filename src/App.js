@@ -11,6 +11,7 @@ import Product from "./pages/product/Product";
 import NewProduct from "./pages/newProduct/NewProduct";
 
 function App() {
+
   return (
     <Router>
       <Topbar />
@@ -29,7 +30,7 @@ function App() {
           <Route path="/newUser">
             <NewUser />
           </Route>
-          <Route path="/products">
+          <Route path="/movies">
             <ProductList />
           </Route>
           <Route path="/product/:productId">

@@ -3,7 +3,6 @@ import {
   LineStyle,
   TrendingUp,
   PermIdentity,
-  Storefront,
   BarChart,
   MailOutline,
   DynamicFeed,
@@ -12,6 +11,7 @@ import {
   WorkOutline,
   Timeline,
   Report,
+  PlayCircleOutline,
 } from "@mui/icons-material";
 import { Link } from "react-router-dom";
 
@@ -47,10 +47,10 @@ const Sidebar = () => {
               Users
             </li>
             </Link> 
-            <Link to="/products" className="link">
+            <Link to="/movies" className="link">
             <li className="sidebarListItem">
-              <Storefront className="sidebarIcon" />
-              Products
+              <PlayCircleOutline className="sidebarIcon" />
+              Movies
             </li>
             </Link> 
             <li className="sidebarListItem">
